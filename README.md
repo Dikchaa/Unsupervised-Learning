@@ -7,5 +7,7 @@ Task: From the given ‘Iris’ dataset, predict the optimum number of clusters 
 
 * Dataset: Iris Dataset
 
+* Complete Video Link: https://www.linkedin.com/feed/update/urn:li:activity:7030398481215197184/
+
 
 **BY:- Dikcha Singh**
